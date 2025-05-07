@@ -1,1 +1,0 @@
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/695/525/GCF_000695525.1_BOL/GCF_000695525.1_BOL_genomic.fna.gz
