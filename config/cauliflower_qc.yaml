@@ -1,0 +1,35 @@
+### PATHS ###
+
+# directory of genomic fasta sequences with .fna extension
+genomes: cauliflower_3/genomes
+
+# directory of annotations with .gff3 extension
+annotations: cauliflower_3/annotations
+
+# table of matching genome and annotation files
+data_table:
+
+# custom scratch directory (default is system default)
+scratch:
+
+# output data directories
+filtered_genomes: cauliflower_3/genomes_filtered
+filtered_annotations: cauliflower_3/annotations_filtered
+proteins: cauliflower_3/proteins
+functions: cauliflower_3/functions
+statistics: cauliflower_3/statistics
+metadata: cauliflower_3/metadata
+
+### PARAMETERS ###
+
+# minimum sequence length for the genomic fasta
+min_len: 1000
+
+# only keep features of longest isoform
+longest_isoform: True
+
+# minimum size of the CDS open reading frame
+orf_size: 30
+
+# comma separated list of InterProScan analyses
+applications: "TIGRFAM,Pfam"
