@@ -1,0 +1,40 @@
+# Sequencing data
+*.fastq
+*.fq
+*.bam
+*.sam
+*.vcf
+*.fasta
+*.fa
+*.gff
+*.gtf
+
+# Gecomprimeerde bestanden
+*.gz
+*.zip
+*.bz2
+*.xz
+
+# Assemblies en analyses
+*.contigs
+*.scaffolds
+*.aln
+*.tree
+*.out
+
+# Log- en outputbestanden
+*.log
+*.err
+*.tmp
+*.stats
+
+# R en Python bestanden
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
