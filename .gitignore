@@ -40,3 +40,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+#Extra whih took too long
+*.snakemake
