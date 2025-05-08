@@ -9,6 +9,7 @@
 *.gff
 *.gtf
 *.fna
+*.gbff
 
 # Gecomprimeerde bestanden
 *.gz
