@@ -1,0 +1,2 @@
+/lustre/BIF/nobackup/perso009/cauliflower/cauliflower_3/genomes_filtered/GCA_034640245.1_ASM3464024v1_genomic.filtered.fna
+/lustre/BIF/nobackup/perso009/cauliflower/cauliflower_3/genomes_filtered/GCA_034640265.1_ASM3464026v1_genomic.filtered.fna

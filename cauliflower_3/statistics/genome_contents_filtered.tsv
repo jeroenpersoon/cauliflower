@@ -1,0 +1,16 @@
+	GCA_034640245.1_ASM3464024v1_genomic.filtered.fna	GCA_034640265.1_ASM3464026v1_genomic.filtered.fna
+Number of sequences:	72	137
+Total sequence length:	534419652	547793997
+Average sequence length:	7422495.166666667	3998496.3284671535
+Std. dev. sequence length:	19479825.758852266	14553867.100384029
+Minimum sequence length:	17951	10887
+Maximum sequence length:	74621860	73465279
+Median sequence length:	114545.0	66647.0
+N25 sequence index:	2	2
+N25 sequence length:	63401356	64749907
+N50 sequence index:	5	5
+N50 sequence length:	56484001	57349439
+N75 sequence index:	7	7
+N75 sequence length:	54611518	50844399
+N95 sequence index:	9	9
+N95 sequence length:	49547750	46904723

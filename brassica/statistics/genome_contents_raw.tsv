@@ -1,0 +1,16 @@
+	GCF_000309985.2_CAAS_Brap_v3.01_genomic.fna	GCF_000695525.1_BOL_genomic.fna	GCF_020379485.1_Da-Ae_genomic.fna
+Number of sequences:	1100	32886	3167
+Total sequence length:	352983092	488954160	1001886053
+Average sequence length:	320893.72	14868.15544608648	316351.76918219135
+Std. dev. sequence length:	2890243.107767629	830362.5366966918	3538494.1310407207
+Minimum sequence length:	2324	200	1008
+Maximum sequence length:	45156810	64984695	74222928
+Median sequence length:	40235.5	393.0	37849.0
+N25 sequence index:	3	3	4
+N25 sequence length:	31442979	53719093	58167434
+N50 sequence index:	6	5	9
+N50 sequence length:	28928902	48366697	48209797
+N75 sequence index:	9	8	17
+N75 sequence length:	21928416	41758685	23154485
+N95 sequence index:	496	264	1284
+N95 sequence length:	43136	28443	44460

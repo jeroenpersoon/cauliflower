@@ -1,10 +1,10 @@
 ### PATHS ###
 
 # directory of genomic fasta sequences with .fna extension
-genomes: cauliflower_3/genomes
+genomes: cauliflower_3/genomes/seq_with_gff
 
 # directory of annotations with .gff3 extension
-annotations: cauliflower_3/annotations
+annotations: cauliflower_3/annotations/gff_files
 
 # table of matching genome and annotation files
 data_table:
