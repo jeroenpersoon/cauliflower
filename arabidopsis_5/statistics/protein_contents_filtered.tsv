@@ -1,0 +1,16 @@
+	GCA_001651475.1_Ler_Assembly_genomic.filtered.pep.faa	GCA_902651935.1_araThaAn1v1_genomic.filtered.pep.faa	GCA_902705455.1_araThaC24v1_genomic.filtered.pep.faa	GCA_904420315.1_AT9943.Cdm-0.scaffold_genomic.filtered.pep.faa	GCF_000001735.4_TAIR10.1_genomic.filtered.pep.faa
+Number of sequences:	26966	27168	27002	23404	27507
+Total sequence length:	11200005	11049689	11025346	10411401	11181464
+Average sequence length:	415.33801824519765	406.71705683156654	408.3159025257388	444.8556229704324	406.4952193986985
+Std. dev. sequence length:	327.80821151918803	303.4464761931031	304.53967889133537	342.77548288590356	301.8911023686597
+Minimum sequence length:	38	30	30	33	30
+Maximum sequence length:	8206	5400	5393	5319	5400
+Median sequence length:	350.0	347.0	348.0	364.0	348.0
+N25 sequence index:	2455	2537	2519	2083	2582
+N25 sequence length:	797	781	785	885	775
+N50 sequence index:	6866	6971	6928	5835	7091
+N50 sequence length:	524	516	518	559	515
+N75 sequence index:	13350	13437	13348	11540	13640
+N75 sequence length:	353	350	351	368	350
+N95 sequence index:	21975	22055	21915	19124	22350
+N95 sequence length:	167	163	163	179	164

@@ -1,0 +1,5 @@
+1 /lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/functions/GCA_001651475.1_Ler_Assembly_genomic.interproscan.gff
+2 /lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/functions/GCA_902651935.1_araThaAn1v1_genomic.interproscan.gff
+3 /lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/functions/GCA_902705455.1_araThaC24v1_genomic.interproscan.gff
+4 /lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/functions/GCA_904420315.1_AT9943.Cdm-0.scaffold_genomic.interproscan.gff
+5 /lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/functions/GCF_000001735.4_TAIR10.1_genomic.interproscan.gff

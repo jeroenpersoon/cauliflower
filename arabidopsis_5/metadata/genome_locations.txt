@@ -1,0 +1,5 @@
+/lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/genomes_filtered/GCA_001651475.1_Ler_Assembly_genomic.filtered.fna
+/lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/genomes_filtered/GCA_902651935.1_araThaAn1v1_genomic.filtered.fna
+/lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/genomes_filtered/GCA_902705455.1_araThaC24v1_genomic.filtered.fna
+/lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/genomes_filtered/GCA_904420315.1_AT9943.Cdm-0.scaffold_genomic.filtered.fna
+/lustre/BIF/nobackup/perso009/cauliflower/arabidopsis_5/genomes_filtered/GCF_000001735.4_TAIR10.1_genomic.filtered.fna
