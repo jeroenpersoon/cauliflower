@@ -1,5 +1,0 @@
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.4_TAIR10.1/GCF_000001735.4_TAIR10.1_genomic.gff.gz
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/420/315/GCA_904420315.1_AT9943.Cdm-0.scaffold/GCA_904420315.1_AT9943.Cdm-0.scaffold_genomic.gff.gz
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/651/475/GCA_001651475.1_Ler_Assembly/GCA_001651475.1_Ler_Assembly_genomic.gff.gz
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/651/935/GCA_902651935.1_araThaAn1v1/GCA_902651935.1_araThaAn1v1_genomic.gff.gz
-https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/705/455/GCA_902705455.1_araThaC24v1/GCA_902705455.1_araThaC24v1_genomic.gff.gz

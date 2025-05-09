@@ -1,0 +1,35 @@
+### PATHS ###
+
+# directory of genomic fasta sequences with .fna extension
+genomes: arabidopsis_5/genomes
+
+# directory of annotations with .gff3 extension
+annotations: arabidopsis_5/annotations
+
+# table of matching genome and annotation files
+data_table:
+
+# custom scratch directory (default is system default)
+scratch:
+
+# output data directories
+filtered_genomes: arabidopsis_5/genomes_filtered
+filtered_annotations: arabidopsis_5/annotations_filtered
+proteins: arabidopsis_5/proteins
+functions: arabidopsis_5/functions
+statistics: arabidopsis_5/statistics
+metadata: arabidopsis_5/metadata
+
+### PARAMETERS ###
+
+# minimum sequence length for the genomic fasta
+min_len: 1000
+
+# only keep features of longest isoform
+longest_isoform: True
+
+# minimum size of the CDS open reading frame
+orf_size: 30
+
+# comma separated list of InterProScan analyses
+applications: "TIGRFAM,Pfam"
