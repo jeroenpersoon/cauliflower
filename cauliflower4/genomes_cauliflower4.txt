@@ -1,0 +1,4 @@
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._botrytis_BobV2_GWHBJSH00000000/GWHBJSH00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._botrytis_Cauliflower_GWHBKKZ00000000/GWHBKKZ00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._botrytis_T25_GWHDTYM00000000/GWHDTYM00000000.genome.fasta.gz
+https://figshare.com/ndownloader/files/27622721
