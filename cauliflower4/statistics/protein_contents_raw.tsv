@@ -1,0 +1,16 @@
+	GWHBJSH00000000.raw.pep.faa	GWHBKKZ00000000.raw.pep.faa	GWHDTYM00000000.raw.pep.faa
+Number of sequences:	97195	53879	50754
+Total sequence length:	37047281	19546199	18060870
+Average sequence length:	381.16447348114616	362.77954305016794	355.8511644402412
+Std. dev. sequence length:	295.6408476603997	290.5403208600809	281.2044446017766
+Minimum sequence length:	100	49	49
+Maximum sequence length:	5364	5361	5361
+Median sequence length:	304.0	292.0	290.0
+N25 sequence index:	8559	4610	4450
+N25 sequence length:	758	752	718
+N50 sequence index:	24226	12945	12409
+N50 sequence length:	483	482	470
+N75 sequence index:	48233	25554	24309
+N75 sequence length:	306	308	303
+N95 sequence index:	81939	43722	41302
+N95 sequence length:	146	135	135

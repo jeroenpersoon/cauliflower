@@ -1,0 +1,3 @@
+/lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/proteins/GWHBJSH00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/proteins/GWHBKKZ00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/proteins/GWHDTYM00000000.filtered.pep.faa

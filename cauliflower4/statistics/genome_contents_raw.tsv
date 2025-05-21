@@ -1,0 +1,16 @@
+	GWHBJSH00000000.genome.fna	GWHBKKZ00000000.genome.fna	GWHDTYM00000000.genome.fna
+Number of sequences:	10	10	138
+Total sequence length:	568515523	534464702	547890678
+Average sequence length:	56851552.3	53446470.2	3970222.304347826
+Std. dev. sequence length:	17658173.751603615	16389952.5676607	14504815.632292887
+Minimum sequence length:	11402142	10276068	10887
+Maximum sequence length:	79842669	75319530	73465279
+Median sequence length:	57842930.0	55586755.5	66776.5
+N25 sequence index:	2	2	2
+N25 sequence length:	71907788	64790961	64749907
+N50 sequence index:	4	5	5
+N50 sequence length:	65683070	56094947	57349439
+N75 sequence index:	7	7	7
+N75 sequence length:	54220099	51326431	50844399
+N95 sequence index:	9	9	9
+N95 sequence length:	48937047	47282770	46904723
