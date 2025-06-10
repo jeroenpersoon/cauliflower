@@ -1,0 +1,4 @@
+1 /lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/functions/27622715.interproscan.gff
+2 /lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/functions/GWHBJSH00000000.interproscan.gff
+3 /lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/functions/GWHBKKZ00000000.interproscan.gff
+4 /lustre/BIF/nobackup/perso009/cauliflower/cauliflower4/functions/GWHDTYM00000000.interproscan.gff

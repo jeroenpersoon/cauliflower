@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Downloading genome and annotation files..."
-mkdir -p genomes
-cd genomes
+mkdir -p genomes_new
+cd genomes_new
 
 wget -i ../genomes_cauliflower4.txt
 for file in *.gz; do
@@ -10,8 +10,8 @@ for file in *.gz; do
 done
 
 cd ..
-mkdir -p annotations
-cd annotations
+mkdir -p annotations_new
+cd annotations_new
 
 wget -i ../annotations_cauliflower4.txt
 for file in *.gz; do

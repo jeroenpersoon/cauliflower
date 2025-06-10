@@ -6,10 +6,17 @@
 *.vcf
 *.fasta
 *.fa
+*.faa
 *.gff
 *.gtf
 *.fna
 *.gbff
+
+#Panproteome bestanden
+*.out
+*.hmm
+*.prfl
+neostore*
 
 # Gecomprimeerde bestanden
 *.gz
