@@ -1,0 +1,12 @@
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._capitata_T03_GWHDTZV00000000/GWHDTZV00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._costata_T13_GWHDTYE00000000/GWHDTYE00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._italica_T06_GWHDTYJ00000000/GWHDTYJ00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._italica_T27_GWHDUBT00000000/GWHDUBT00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_T12_GWHDUBH00000000/GWHDUBH00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._italica_T21_GWHDUBS00000000/GWHDUBS00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._viridis_T26_GWHDTZU00000000/GWHDTZU00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._viridis_T14_GWHDUBR00000000/GWHDUBR00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_oleracea_var._viridis_T18_GWHDUBM00000000/GWHDUBM00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_juncea_XC_genome_GWHCAYN00000000/GWHCAYN00000000.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_juncea_PM_GWHFIKA00000000.1/GWHFIKA00000000.1.genome.fasta.gz
+https://download.cncb.ac.cn/gwh/Plants/Brassica_juncea_HJ_GWHFQTP00000000.1/GWHFQTP00000000.1.genome.fasta.gz

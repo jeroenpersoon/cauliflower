@@ -1,0 +1,35 @@
+### PATHS ###
+
+# directory of genomic fasta sequences with .fna extension
+genomes: brassica_all/genomes
+
+# directory of annotations with .gff3 extension
+annotations: brassica_all/annotations
+
+# table of matching genome and annotation files
+data_table:
+
+# custom scratch directory (default is system default)
+scratch:
+
+# output data directories
+filtered_genomes: brassica_all/QC/genomes_filtered
+filtered_annotations: brassica_all/QC/annotations_filtered
+proteins: brassica_all/QC/proteins
+functions: brassica_all/QC/functions
+statistics: brassica_all/QC/statistics
+metadata: brassica_all/QC/metadata
+
+### PARAMETERS ###
+
+# minimum sequence length for the genomic fasta
+min_len: 10000
+
+# only keep features of longest isoform
+longest_isoform: True
+
+# minimum size of the CDS open reading frame
+orf_size: 49
+
+# comma separated list of InterProScan analyses
+applications: "TIGRFAM,Pfam"

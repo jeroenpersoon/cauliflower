@@ -1,0 +1,1 @@
+/home/perso009/lustre/cauliflower/brassica_all/QC/proteins/Bnigra_NI100.v2.genes.filtered.pep.faa

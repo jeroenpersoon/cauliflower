@@ -1,0 +1,12 @@
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHCAYN00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDTYE00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDTYJ00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDTZU00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDTZV00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDUBH00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDUBM00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDUBR00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDUBS00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHDUBT00000000.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHFIKA00000000.1.filtered.pep.faa
+/lustre/BIF/nobackup/perso009/cauliflower/brassica_all/QC/proteins/GWHFQTP00000000.1.filtered.pep.faa
