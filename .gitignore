@@ -48,8 +48,9 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-#Extra which took too long
+# Extra which took too long
 *.snakemake
-cauliflower4/pangenome/*
 cauliflower4/QC/statistics/agat_sp_statistics/*
-brassica_oleracea16/pangenome16/*
+
+# Folder with old pangenomes not used (yet)
+old/*
